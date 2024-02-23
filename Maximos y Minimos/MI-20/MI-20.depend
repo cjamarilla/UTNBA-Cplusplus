@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708671584 source:/home/ciro_amarilla/Documentos/C++/AyED-UTNBA/Maximos y Minimos/MI-20/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

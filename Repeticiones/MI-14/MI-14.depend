@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708662967 source:/home/ciro_amarilla/Documentos/C++/AyED-UTNBA/Repeticiones/MI-14/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
