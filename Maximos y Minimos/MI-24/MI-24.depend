@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709541514 source:/home/ciro_amarilla/Documentos/AyED-UTNBA/Maximos y Minimos/MI-24/main.cpp
+	<iostream>
+	<climits>
+	<limits>
+
