@@ -74,7 +74,7 @@ int main()
     cout<<"i: "<<vocalI<<endl;
     cout<<"o: "<<vocalO<<endl;
     cout<<"u: "<<vocalU<<endl;
-    cout<<"b) cantidad de letras que contiene la oracion: "<<contPalabra<<endl;
+    cout<<"b) cantidad de palabras que contiene la oracion: "<<contPalabra<<endl;
     cout<<"c) Cantidad de letras que posee la palabra mas larga: "<<contLetras_max<<endl;
 
     return 0;
