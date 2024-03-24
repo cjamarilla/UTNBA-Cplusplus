@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711081253 source:c:\users\ciro joel\documents\utnba-cplusplus\maximos y minimos\mi-25\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
