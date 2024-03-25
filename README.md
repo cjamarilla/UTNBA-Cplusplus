@@ -39,3 +39,6 @@
 
 ## Funciones
 - MI-33 [x]
+- MI-34 [x]
+- MI-35 [x]
+- MI-36 [x]
